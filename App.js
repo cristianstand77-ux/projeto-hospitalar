@@ -14,7 +14,7 @@ export default function App() {
       <Text style={styles.headerTitle}>Saúde em Paz</Text>
       <Text style={styles.headerSubtitle}>Encontre atendimento perto de você</Text>
     </View>
-    <Text style={styles.watermark}>guerreiros{'\n'}do código</Text>
+    <Text style={styles.watermark}>Guerreiros{'\n'}Do Código</Text>
   </View>
 </View>
 
